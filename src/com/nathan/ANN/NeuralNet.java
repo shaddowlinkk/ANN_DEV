@@ -1,7 +1,6 @@
 package com.nathan.ANN;
 import com.nathan.ANN.activations.ActivationFunctions;
 
-import java.util.AbstractList;
 import java.util.ArrayList;
 
 /**
